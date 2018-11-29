@@ -1,27 +1,20 @@
 # 590PR Final_Project
-Fork from here to create your final project repository.
-
-Two things are different than all the previous assignments in 590PR regarding the permissions settings:
-
-1. Please KEEP the "All_Students" team to have Read access.  
-2. Whenever you choose to, you are welcome to change your Final Project repository to private or to public.  This will enable you to list it in your resume, website, or other portfolio.
-
-DELETE these lines from TEMPLATE up.
-
-TEMPLATE for your report to fill out:
 
 # Title: 
+Simulation of Weight Loss
 
-## Team Member(s):
-(Note: Don't put your email addresses here (which is public).  If a student wants their NAME hidden as well, due to optional FERPA regulations, they can be listed purely by their GitHub ID).
+## Team Member(s): 
+Junyi Zheng, Shijia Zhang, Linxi Liu
 
 # Monte Carlo Simulation Scenario & Purpose:
-(be sure to read the instructions given in course Moodle)
+As we know, many people are eager to lose their weight by trying to go on a diet or exercise hard.But many have failed.Our goal is to find out how many pounds a person loses.
+Suppose we set this person a goal of a fixed amount of calories that he or she should burn in a day.To achieve this goal, the person needs to control what he or she eat ,and keep exercising.The calories taken in is one of the parameters.Calories that are burned are affected by BMR ,which is related to the person’s sex ,age and career ,and what kind of exercise he or she does.
 
-## Simulation's variables of uncertainty
-List and describe your simulation's variables of uncertainty (where you're using pseudo-random number generation). For each such variable, how did you decide the range and probability distribution to use?  Do you think it's a good representation of reality?
+## Simulation's variables of uncertainty:
+sex ;age ;current weight ;calorie intake ;career : static ,medium ,dynamic ;exercise : cardio ,anaerobic ,mixed.
 
 ## Hypothesis or hypotheses before running the simulation:
+No hypothesis.
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
